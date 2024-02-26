@@ -17,5 +17,3 @@ This project is associated with "The Ultimate Unreal Engine 2D Game Development 
 
 ## Exiting the Game
 - If you need to exit the game at any point, you can do so easily by pressing **Alt + F4**.
-
-Thank you for choosing to explore game development through this project. We hope it serves as a valuable tool in your learning journey. Happy developing!
